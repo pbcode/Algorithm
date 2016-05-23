@@ -6,7 +6,6 @@
 
 ```
 类名：AlgorithmForAssemble.java
-      I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
 ```
 ```
 说明：整体思想如下，首先依次将数组每一个元素放置第一位，其他位元素仍按原始顺序。
@@ -26,5 +25,3 @@
       cabd , cadb , cdab , cdba , cbda , cbad
       dabc , dacb , dcab , dcba , dbca , dbac
 ```
-
-
