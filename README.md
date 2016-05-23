@@ -6,6 +6,7 @@
 
 ```
 类名：AlgorithmForAssemble.java
+      This is an [example link](http://example.com/).
 ```
 ```
 说明：整体思想如下，首先依次将数组每一个元素放置第一位，其他位元素仍按原始顺序。
